@@ -1,4 +1,8 @@
-# Balancer Asset Repository
+# PrimeDAO Asset Repository
+
+⚠️ Based on a Balancer-labs repo.
+
+Used as a source for token assets.
 
 ## How to add a token to Balancer
 
